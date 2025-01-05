@@ -2,4 +2,5 @@ div{
     background-color: #00ffff;
     padding: 10px;
     margin-bottom: 10px;
+    text-transform: capitalize;
 }
